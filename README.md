@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singlapriyanka315&label=Profile%20views&color=0e75b6&style=flat" alt="singlapriyanka315" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singlapriyanka315" alt="singlapriyanka315" /></a> </p>
 <br><br>
 
 - 🔭 I’m currently working on **Portfolio**
@@ -31,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singlapriyanka315&show_icons=true&locale=en" alt="singlapriyanka315" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singlapriyanka315&" alt="singlapriyanka315" /></p><br><br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singlapriyanka315" alt="singlapriyanka315" /></a> </p>
