@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singlapriyanka315&label=Profile%20views&color=0e75b6&style=flat" alt="singlapriyanka315" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Database and Backend Development**
 
