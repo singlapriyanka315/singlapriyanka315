@@ -21,19 +21,9 @@
 
 ## About
 
-I am a Mobile App Developer and Software Engineer with experience building and shipping production-grade applications, contributing to product-led feature development, and delivering user-focused solutions across mobile platforms.
+I am a Mobile App Developer and Software Engineer with experience building and shipping production-grade applications across consumer and product-focused platforms.
 
-My work spans application architecture, API integrations, deep linking, notifications, maps, dynamic UI systems, and scalable feature development. I focus on building software that is reliable, maintainable, and aligned with product impact.
-
----
-
-## Professional Snapshot
-
-- Experience delivering production features for consumer-facing mobile applications
-- Strong foundation in scalable architecture, clean code, and maintainable engineering practices
-- Hands-on work with deep links, push notifications, maps, campaign systems, and dynamic UI flows
-- Comfortable taking ownership of features from implementation through release
-- Focused on balancing technical quality with product usability and business impact
+My work spans scalable mobile architecture, API integrations, deep linking, notifications, maps, dynamic UI systems, and performance-focused feature development. I enjoy building software that balances engineering quality, product thinking, and user experience.
 
 ---
 
@@ -57,45 +47,50 @@ My work spans application architecture, API integrations, deep linking, notifica
 
 ---
 
-## Products & Experience
+## Products
 
-### Collective Artists Network
-**BigBang Social**  
-Links: [Android](https://play.google.com/store/apps/details?id=com.under25universe.bigbangsocial&hl=en_IN) | [iOS](https://apps.apple.com/in/app/bigbang-social/id6450163388)
+### BigBang Social
+[Android](https://play.google.com/store/apps/details?id=com.under25universe.bigbangsocial&hl=en_IN) | [iOS](https://apps.apple.com/in/app/bigbang-social/id6450163388)
 
-- Contributed to **BigBang Social**, a creator-focused super app with **500K+ downloads**
-- Built a gamified leaderboard system that improved daily active logins and creator retention
-- Developed Auto DM functionality to streamline creator workflows
-- Contributed to brand campaign and monetization features at scale
-- Built a centralized deep link router for more reliable in-app navigation
-- Helped enable faster product iteration through backend-driven UI assets
+A creator-focused social platform designed to help creators grow, engage with campaigns, and unlock monetization opportunities. The app has been downloaded by **500K+ users** and is built around content, rewards, and creator-first experiences.
 
-### GeekyAnts
-Worked on production applications across consumer services and healthcare products.
+- Built a gamified leaderboard system to improve engagement and retention
+- Developed Auto DM workflows to simplify creator actions inside the app
+- Contributed to campaign and monetization features at scale
+- Built a centralized deep link router for smoother in-app navigation
+- Helped enable faster iteration through backend-driven UI assets
 
-**LaLa Maids**  
-Links: [Android](https://play.google.com/store/apps/details?id=com.lalmaids.customer_app&hl=en_IN) | [iOS](https://apps.apple.com/us/app/la-la-maids/id6468030105)
+### LaLa Maids
+[Android](https://play.google.com/store/apps/details?id=com.lalmaids.customer_app&pcampaignid=web_share) | [iOS](https://apps.apple.com/in/app/la-la-maids/id6468030105?platform=iphone)
+
+A home services platform that helps users discover, schedule, and manage maid bookings through a mobile-first experience. The app focuses on convenience, location accuracy, and smooth booking flows.
 
 - Implemented Google Maps-based address selection
 - Integrated OneSignal for push notifications
 - Built Branch.io deep-link sharing flows
-- Developed advanced calendar and scheduling UI
+- Developed advanced scheduling and calendar-based booking UI
 
-**LaLa Maids Pro**  
-Links: [Android](https://play.google.com/store/apps/details?id=com.lalamaidsm.maid_app&hl=sv) | [iOS](https://apps.apple.com/us/app/maids-pro/id6467877629)
+### LaLa Maids Pro
+[Android](https://play.google.com/store/apps/details?id=com.lalamaidsm.maid_app&hl=sv) | [iOS](https://apps.apple.com/in/app/maids-pro/id6467877629?platform=iphone)
+
+A provider-side app built for service professionals to manage bookings, workflows, and day-to-day operational tasks efficiently. It supports the service ecosystem behind the customer-facing LaLa Maids platform.
 
 - Contributed to provider-side mobile workflows
 - Worked on booking-related and operational user flows
-- Helped support production-ready mobile experiences for service professionals
+- Supported production-ready mobile experiences for service professionals
 
-**TataMD**  
-Links: [Website](https://tatamd.com/) | [iOS](https://apps.apple.com/in/app/tata-md/id1665888178) | [Android](https://play.google.com/store/apps/details?id=com.tatamd.urbancare)
+### TataMD
+[Website](https://tatamd.com/) | [iOS](https://apps.apple.com/in/app/tata-md/id1665888178) | [Android](https://play.google.com/store/apps/details?id=com.tatamd.urbancare)
 
-- Contributed to the TataMD mobile application experience across production-ready user flows
-- Worked on scalable mobile features aligned with healthcare product requirements
-- Supported implementation focused on usability, reliability, and smooth app interactions
+A healthcare-focused mobile platform built to make access to medical support and care services more seamless and user-friendly. The product emphasizes reliability, trust, and smooth digital healthcare interactions.
 
-**Arxara**
+- Contributed to the TataMD mobile application across live production flows
+- Worked on scalable features aligned with healthcare product requirements
+- Supported reliable, user-focused implementation in a production environment
+
+### Arxara
+
+A content-driven social experience focused on media sharing, user interaction, and engaging feed-based consumption patterns.
 
 - Worked on story-style media interactions and content feed experiences
 - Implemented story upload and delete functionality
@@ -103,10 +98,10 @@ Links: [Website](https://tatamd.com/) | [iOS](https://apps.apple.com/in/app/tata
 
 ---
 
-## Selected Strengths
+## Strengths
 
 ```text
 Production-ready mobile development
-Feature ownership from implementation to release
 Scalable architecture and clean code
-Strong integration and product thinking
+API integrations and feature ownership
+Performance, quality, and user-focused engineering
